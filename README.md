@@ -3,18 +3,18 @@
 <table>
   <td>
 <li> 
-<a href="Download File on Button Click/download.php "> Dowload File using PHP</a><br></li>
+<a href="Download File on Button Click/download.php "> Dowload File using PHP </a><br></li>
 <img src="Download File on Button Click/1.png" /> 
   </td>
   <td>
 <li> 
-<a href="Simple Calculator Using PHP/cal.php"> Simple Calculator</a><br></li>
+<a href="Simple Calculator Using PHP/cal.php"> Simple Calculator using PHP</a><br></li>
 <img src="Simple Calculator Using PHP/1.png" height="150" width="300" /> 
 <br>
   </td>
   <td>
 <li> 
-<a href="Chessboard using PHP/chessboard.php"> Chessboard </a><br></li>
+<a href="Chessboard using PHP/chessboard.php"> Chessboard using Switch Case </a><br></li>
 <img src="Chessboard using PHP/chessboard.png" height="200" width="300" /> 
 <br>
   </td>

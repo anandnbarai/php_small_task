@@ -9,7 +9,7 @@
   <td>
 <li> Simple Calculator using PHP : 
 <a href="Simple Calculator Using PHP/cal.php"> Simple Calculator</a><br></li>
-<img src="Simple Calculator Using PHP/1.png" height="250" width="400" /> 
+<img src="Simple Calculator Using PHP/1.png" height="150" width="300" /> 
 <br>
   </td>
   <td>

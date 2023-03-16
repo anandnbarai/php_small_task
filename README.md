@@ -1,7 +1,6 @@
 # PHP Small Task
 
 <table>
-<tr>
   <td>
 <li> Download File on Button Click : 
 <a href="Download File on Button Click/download.php "> Dowload File using PHP</a><br></li>
@@ -19,7 +18,6 @@
 <img src="Chessboard using PHP/chessboard.png" height="350" width="400" /> 
 <br>
   </td>
-<tr>
 </table>
 
 

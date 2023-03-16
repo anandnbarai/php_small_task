@@ -15,7 +15,7 @@
   <td>
 <li> Chessboard using PHP : 
 <a href="Chessboard using PHP/chessboard.php"> Chessboard </a><br></li>
-<img src="Chessboard using PHP/chessboard.png" height="250" width="300" /> 
+<img src="Chessboard using PHP/chessboard.png" height="200" width="300" /> 
 <br>
   </td>
 </table>

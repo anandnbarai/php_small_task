@@ -14,7 +14,8 @@
 <img src="Chessboard using PHP/chessboard.png" height="350" width="400" /> 
 <br>
 
-<li> Simple Calculator using PHP :
+<h3> Simple Calculator using PHP : </h3>
+<br>
 <b><li> <a href="PHP Basic Task/1_area_circle.php"> Area of Circle </a></li></b>
 <br>
 <b><li> <a href="PHP Basic Task/2_area_triangle.php"> Area of Triangle </a></li></b>

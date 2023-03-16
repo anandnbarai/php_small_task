@@ -14,7 +14,7 @@
   </td>
   <td>
 <li> 
-<a href="Chessboard using PHP/chessboard.php"> Chessboard using Switch Case </a><br></li>
+<a href="Chessboard using PHP/chessboard.php"> Chessboard using For Loop </a><br></li>
 <img src="Chessboard using PHP/chessboard.png" height="200" width="300" /> 
 <br>
   </td>

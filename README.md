@@ -2,18 +2,18 @@
 
 <table>
   <td>
-<li> Download File on Button Click : 
+<li> 
 <a href="Download File on Button Click/download.php "> Dowload File using PHP</a><br></li>
 <img src="Download File on Button Click/1.png" /> 
   </td>
   <td>
-<li> Simple Calculator using PHP : 
+<li> 
 <a href="Simple Calculator Using PHP/cal.php"> Simple Calculator</a><br></li>
 <img src="Simple Calculator Using PHP/1.png" height="150" width="300" /> 
 <br>
   </td>
   <td>
-<li> Chessboard using PHP : 
+<li> 
 <a href="Chessboard using PHP/chessboard.php"> Chessboard </a><br></li>
 <img src="Chessboard using PHP/chessboard.png" height="200" width="300" /> 
 <br>
